@@ -1,0 +1,9 @@
+# Put this file inside a folder named ".streamlit" next to app.py
+# (i.e. .streamlit/config.toml). It forces the light, blue theme.
+[theme]
+base = "light"
+primaryColor = "#1E5AA8"
+backgroundColor = "#EDF2F8"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1A2230"
+font = "sans serif"
